@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence.exe...;Oi!+Eu+sou+SEU_NOME+%F0%9F%A6%BE;Dev+Full+Stack+%7C+PHP+%26+Laravel;Hackeando+o+sistema+com+c%C3%B3digo+limpo" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence.exe...;Oi!+Eu+sou+o+Vicenzo!+%F0%9F%A6%BE;Dev+Full+Stack+%7C+PHP+%26+Laravel" alt="typing" />
 </h1>
 
 <p align="center">
@@ -8,19 +8,19 @@
 </p>
 
 <p align="center">
-  <i>"Eu não vou parar no meio do caminho. Vou até a lua." 🌙</i>
+  <i>"Eu não vou parar no meio do caminho. Vou até a lua."</i>
 </p>
 
 ## `> system_status`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=FF1744&icon_color=00B4FF&text_color=E0F4FF&ring_color=FF1744&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=FF1744&text_color=E0F4FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vicenzo&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=FF1744&icon_color=00B4FF&text_color=E0F4FF&ring_color=FF1744&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=FF1744&text_color=E0F4FF" />
 </p>
 
 ## `> installed_modules`
 
-### 🔵 front_end
+###  front_end
 <p>
   <img src="https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=FF1744" />
   <img src="https://img.shields.io/badge/CSS3-0a0a1a?style=for-the-badge&logo=css3&logoColor=00B4FF" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Tailwind-0a0a1a?style=for-the-badge&logo=tailwindcss&logoColor=00B4FF" />
 </p>
 
-### 🔴 back_end
+###  back_end
 <p>
   <img src="https://img.shields.io/badge/PHP-0a0a1a?style=for-the-badge&logo=php&logoColor=00B4FF" />
   <img src="https://img.shields.io/badge/Laravel-0a0a1a?style=for-the-badge&logo=laravel&logoColor=FF1744" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Docker-0a0a1a?style=for-the-badge&logo=docker&logoColor=00B4FF" />
 </p>
 
-### ⚡ extra_firmware
+###  extra_firmware
 <p>
   <img src="https://img.shields.io/badge/UML_2.5-0a0a1a?style=for-the-badge&logoColor=FF1744&labelColor=0a0a1a&color=FF1744" />
   <img src="https://img.shields.io/badge/Metodologias_Ágeis-0a0a1a?style=for-the-badge&labelColor=0a0a1a&color=00B4FF" />
