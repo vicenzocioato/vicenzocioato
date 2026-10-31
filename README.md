@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-0a0a1a?style=for-the-badge&labelColor=00B4FF&color=0a0a1a" />
-  <img src="https://img.shields.io/badge/MODE-EDGERUNNER-0a0a1a?style=for-the-badge&labelColor=FF1744&color=0a0a1a" />
+  <img src="https://img.shields.io/badge/MODE-DEV-0a0a1a?style=for-the-badge&labelColor=FF1744&color=0a0a1a" />
 </p>
 
 <p align="center">
