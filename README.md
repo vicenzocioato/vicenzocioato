@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence.exe...;Oi!+Eu+sou+o+Vicenzo!;Dev+Full+Stack+%7C+PHP+%26+Laravel" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence...;Oi!+Eu+sou+o+Vicenzo!;Dev+Full+Stack+%7C+PHP+%26+Laravel" alt="typing" />
 </h1>
 
 <p align="center">
@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/MODE-DEV-0a0a1a?style=for-the-badge&labelColor=FF1744&color=0a0a1a" />
 </p>
 
-<p align="center">
-  <i>"Eu não vou parar no meio do caminho. Vou até a lua."</i>
-</p>
 
 ## `> Stack`
 
