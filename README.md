@@ -11,13 +11,6 @@
   <i>"Eu não vou parar no meio do caminho. Vou até a lua."</i>
 </p>
 
-## `> system_status`
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vicenzo&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=FF1744&icon_color=00B4FF&text_color=E0F4FF&ring_color=FF1744&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=FF1744&text_color=E0F4FF" />
-</p>
-
 ## `> installed_modules`
 
 ###  front_end
