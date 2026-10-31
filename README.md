@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence.exe...;Oi!+Eu+sou+o+Vicenzo!+%F0%9F%A6%BE;Dev+Full+Stack+%7C+PHP+%26+Laravel" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF1744&center=true&vCenter=true&width=650&lines=%3E+boot_sequence.exe...;Oi!+Eu+sou+o+Vicenzo!;Dev+Full+Stack+%7C+PHP+%26+Laravel" alt="typing" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <i>"Eu não vou parar no meio do caminho. Vou até a lua."</i>
 </p>
 
-## `> installed_modules`
+## `> Stack`
 
 ###  front_end
 <p>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Docker-0a0a1a?style=for-the-badge&logo=docker&logoColor=00B4FF" />
 </p>
 
-###  extra_firmware
+###  extra
 <p>
   <img src="https://img.shields.io/badge/UML_2.5-0a0a1a?style=for-the-badge&logoColor=FF1744&labelColor=0a0a1a&color=FF1744" />
   <img src="https://img.shields.io/badge/Metodologias_Ágeis-0a0a1a?style=for-the-badge&labelColor=0a0a1a&color=00B4FF" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Google_Sheets-0a0a1a?style=for-the-badge&logo=googlesheets&logoColor=FF1744" />
 </p>
 
-## `> open_channels`
+## `> Communication`
 
 <p align="center">
   <a href="mailto:vicenzocioato8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white" /></a>
