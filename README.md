@@ -62,5 +62,5 @@
 ## `> contribution_snake`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/vicenzocioato/vicenzocioato/output/github-snake-dark.svg" alt="snake" />
 </p>
