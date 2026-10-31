@@ -46,10 +46,8 @@
 ## `> open_channels`
 
 <p align="center">
-  <a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Instagram-0a0a1a?style=for-the-badge&logo=instagram&logoColor=FF1744" /></a>
-  <a href="https://discord.com/users/SEU_ID"><img src="https://img.shields.io/badge/Discord-0a0a1a?style=for-the-badge&logo=discord&logoColor=00B4FF" /></a>
-  <a href="mailto:SEU@EMAIL.COM"><img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-00B4FF?style=for-the-badge&logo=linkedin&logoColor=0a0a1a" /></a>
+  <a href="mailto:vicenzocioato8@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href= https://www.linkedin.com/in/vicenzo-cioato-27b153390"><img src="https://img.shields.io/badge/LinkedIn-00B4FF?style=for-the-badge&logo=linkedin&logoColor=0a0a1a" /></a>
 </p>
 
 ## `> contribution_snake`
